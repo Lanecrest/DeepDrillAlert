@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>DoctorWorm.DeepDrillAlert</packageId>
+	<name>Deep Drill Alert</name>
+	<author>Doctor Worm</author>
+	<modVersion>0.2.0</modVersion>
+	
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	
+	<description>
+Creates an alert if there are any forbidden deep drills on the map. Since deep drills are automatically marked as forbidden once the area they are drilling is depleted, this will alert you without needing to manually check on your drilling locations.
+	</description>
+</ModMetaData>
