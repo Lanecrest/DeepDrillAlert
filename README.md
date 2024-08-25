@@ -16,7 +16,7 @@ Creates an alert if there are any forbidden deep drills on the map. Since deep d
 # ChangeLog
 ## 0.2.0 [08/24/24]
 - Updated mod to allow localization.
-- Included my own German and Spanish (both Latin American and Castilian as I believe the language would be the same) localizations
+- Included my own German and Spanish (both Latin American and Castilian as I believe the grammar would be the same) localizations
 - Created GitHub project with MIT License.
 
 ## 0.1.0 [08/24/24]
