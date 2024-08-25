@@ -1,5 +1,5 @@
 # Deep Drill Alert
-Creates an alert if there are any forbidden deep drills on the map. Since deep drills are automatically marked as forbidden once the area they are drilling is depleted, this will alert you without needing to manually check on your drilling locations.
+Creates an alert if there are any forbidden deep drills on the map. Since deep drills are automatically marked as forbidden once the area they are drilling is depleted, this will alert you that that a drill has become forbidden, implying that all the resources in that area have been drilled.
 
 # ChangeLog
 ## 0.2.0 [08/24/24]
