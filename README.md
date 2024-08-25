@@ -16,6 +16,10 @@ Creates an alert if there are any forbidden deep drills on the map. Since deep d
   - I would love to if someone wants to supply it! This mod support localizations through XML files. I created German and Spanish ones myself as I have studied both of those languages so I felt confident doing them, however if you do notice any grammatical errors with those (or other localizations if they are ever added), be sure to let me know so I can corret them!
 
 # ChangeLog
+## 1.0.0 [08/25/24]
+- Updated method to have the alert reflect simultaneous deep drills if multiple are forbidden at the same time
+- Steam release, uploaded to Workshop
+
 ## 0.2.1 [08/25/24]
 - Added Preview.png
 - Final QA testing before upload to Steam
