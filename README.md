@@ -3,6 +3,8 @@
 # Deep Drill Alert
 Creates an alert if there are any forbidden deep drills on the map. Since deep drills are automatically marked as forbidden once the area they are drilling is depleted, this will alert you that that a drill has become forbidden, implying that all the resources in that area have been drilled.
 
+Find on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3317330008)
+
 # FAQ
 - Why did you make this mod?
   - Because I couldn't find anything in the workshop that did this. Maybe something is there, but all I found were mods that add a bunch of new features or make a lot of changes around ground scanning and deep drilling, and more power to the people who want those features, but I wanted something that didn't make any changes to the vanilla system, other than tell me when a deep drill was done drilling.
