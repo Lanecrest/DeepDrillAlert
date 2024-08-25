@@ -16,14 +16,17 @@ namespace DeepDrillAlert
             // Find all deep drills on the map
             var deepDrills = Find.CurrentMap.listerBuildings.AllBuildingsColonistOfDef(ThingDefOf.DeepDrill);
 
-            // Check if any deep drills forbidden
-            bool anyForbidden = deepDrills.Any(drill => drill.IsForbidden(Faction.OfPlayer));
+            // Check if any deep drills are forbidden
+            List<Thing> forbiddenDrills = deepDrills
+                .Where(drill => drill.IsForbidden(Faction.OfPlayer))
+                .Cast<Thing>()
+                .ToList();
 
-            // Place an alert if there are forbidden deep drills
-            return AlertReport.CulpritIs(anyForbidden ? deepDrills.First(drill => drill.IsForbidden(Faction.OfPlayer)) : null);
+            // Create an alert if there are forbidden deep drills
+            return AlertReport.CulpritsAre(forbiddenDrills);
         }
 
-        // Label and Explanation parameters, text is defined through XML files to support translations
+        // Alert language, text is defined through XML files to support translations
         public DeepDrillAlert()
         {
             this.defaultLabel = "DeepDrillAlert_Label".Translate();
