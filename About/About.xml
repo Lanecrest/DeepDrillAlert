@@ -4,6 +4,7 @@
 	<name>Deep Drill Alert</name>
 	<author>Doctor Worm</author>
 	<modVersion>1.0.0</modVersion>
+	<url>https://github.com/Lanecrest/DeepDrillAlert/</url>
 	
 	<supportedVersions>
 		<li>1.5</li>
