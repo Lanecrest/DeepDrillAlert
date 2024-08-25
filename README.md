@@ -13,7 +13,7 @@ Creates an alert if there are any forbidden deep drills on the map. Since deep d
 - The alert also triggers when I manually mark a drill as forbidden, not just when it automatically becomes forbidden.
   - Yeah, and I wouldn't call this a bug either. I'm not sure the game knows how to tell the difference between the player manually marking a structure as forbidden and it becoming forbidden automatically due to a game state.
 - Can you add [insert localization]?
-  - I would love to if someone wants to supply it! This mod support localizations through XML files. I created German and Spanish ones myself as I have studied both of those languages so I felt confident doing them, however if you do notice any grammatical errors with those (or other localizations if they are ever added), be sure to let me know so I can corret them!
+  - I would love to if someone wants to supply it! This mod support localizations through XML files. I created German and Spanish ones myself as I have studied both of those languages so I felt confident doing them, however if you do notice any grammatical errors with those (or other localizations if they are ever added), be sure to let me know so I can correct them!
 
 # ChangeLog
 ## 1.0.0 [08/25/24]
