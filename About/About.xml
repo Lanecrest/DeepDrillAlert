@@ -3,7 +3,7 @@
 	<packageId>DoctorWorm.DeepDrillAlert</packageId>
 	<name>Deep Drill Alert</name>
 	<author>Doctor Worm</author>
-	<modVersion>0.2.0</modVersion>
+	<modVersion>1.0.0</modVersion>
 	
 	<supportedVersions>
 		<li>1.5</li>
