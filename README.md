@@ -17,22 +17,8 @@ Find on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=331733000
 - Can you add [insert localization]?
   - I would love to if someone wants to supply it! This mod support localizations through XML files. I created German and Spanish ones myself as I have studied both of those languages so I felt confident doing them, however if you do notice any grammatical errors with those (or other localizations if they are ever added), be sure to let me know so I can correct them!
 
-# ChangeLog
-## 1.0.0 [08/25/24]
-- Updated method to have the alert reflect simultaneous deep drills if multiple are forbidden at the same time
-- Steam release, uploaded to Workshop
-
-## 0.2.1 [08/25/24]
-- Added Preview.png
-- Final QA testing before upload to Steam
-
-## 0.2.0 [08/24/24]
-- Updated alerts to allow localization
-- Included my own German and Spanish (both Latin American and Castilian as I believe the grammar would be the same) localizations
-- Created GitHub project with MIT License
-
-## 0.1.0 [08/24/24]
-- Assembly only DLL that identifies forbidden deep drills on the map and creates an alert
+# Change Log
+[Change Log](CHANGELOG.md)
 
 ## Bugs
 - None ATM
