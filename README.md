@@ -5,7 +5,9 @@ Creates an alert if there are any forbidden deep drills on the map. Since deep d
 
 Find on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3317330008)
 
-# FAQ
+[Change Log](CHANGELOG.md)
+
+## FAQ
 - Why did you make this mod?
   - Because I couldn't find anything in the workshop that did this. Maybe something is there, but all I found were mods that add a bunch of new features or make a lot of changes around ground scanning and deep drilling, and more power to the people who want those features, but I wanted something that didn't make any changes to the vanilla system, other than tell me when a deep drill was done drilling.
 - Is this compatible with [mod name]?
@@ -17,11 +19,5 @@ Find on [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=331733000
 - Can you add [insert localization]?
   - I would love to if someone wants to supply it! This mod support localizations through XML files. I created German and Spanish ones myself as I have studied both of those languages so I felt confident doing them, however if you do notice any grammatical errors with those (or other localizations if they are ever added), be sure to let me know so I can correct them!
 
-# Change Log
-[Change Log](CHANGELOG.md)
-
-## Bugs
-- None ATM
-
-## ToDo
+## To Do
 - More localizations?
