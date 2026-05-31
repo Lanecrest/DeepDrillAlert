@@ -1,5 +1,8 @@
 # ChangeLog
 
+## 1.0.1 [05/30/26]
+- Updated for 1.6 - sorry this took so long!
+
 ## 1.0.0 [08/25/24]
 - Updated method to have the alert reflect simultaneous deep drills if multiple are forbidden at the same time
 - Steam release, uploaded to Workshop
