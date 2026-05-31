@@ -3,7 +3,7 @@
 	<packageId>DoctorWorm.DeepDrillAlert</packageId>
 	<name>Deep Drill Alert</name>
 	<author>Doctor Worm</author>
-	<modVersion>1.0.0</modVersion>
+	<modVersion>1.0.1</modVersion>
 	<url>https://github.com/Lanecrest/DeepDrillAlert/</url>
 	
 	<supportedVersions>
